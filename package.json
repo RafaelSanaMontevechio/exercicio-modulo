@@ -1,0 +1,14 @@
+{
+  "name": "modulos",
+  "version": "1.0.0",
+  "description": "Exercicios sobre modulos",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Rafael Sana Montevechio",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
